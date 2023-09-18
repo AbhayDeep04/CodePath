@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ4NWpycDZqODd3a3E5M3Q2b3g1cXBudXdiOHpmYzRqOXFieXJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5I2v6tp80FTPzs5Pd/giphy.gif
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ4NWpycDZqODd3a3E5M3Q2b3g1cXBudXdiOHpmYzRqOXFieXJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5I2v6tp80FTPzs5Pd/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
